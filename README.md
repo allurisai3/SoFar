@@ -19,14 +19,22 @@ Navigation: It takes in information from odometry and sensor streams and outputs
 Config-file: Contains all robot configuration and definition files, model.rviz: a pre-configured Rviz file including all the necessary data for the Rviz.
 params.yaml: including Ros-Ip and Unity-Ip for the communication purposes
 
+
 Launch:Start the simulation on ROS side executing in the workspace:
-● roslaunch mobile_robot_navigation_project navigation.launch
+
+`roslaunch mobile_robot_navigation_project navigation.launch`
+
 For localizing the robot in the environment we use:
-● roslaunch mobile_robot_navigation_project gmapping.launch
+
+` roslaunch mobile_robot_navigation_project gmapping.launch`
+
 For launching the simulation of husky:
-● roslaunch mobile_robot_navigation_project rviz.launch
+
+`roslaunch mobile_robot_navigation_project rviz.launch`
+
 For navigation and moving the robot and path planning:
-● roslaunch mobile_robot_navigation_project move.launch
+
+` roslaunch mobile_robot_navigation_project move.launch`
 
 
 
