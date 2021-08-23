@@ -1,8 +1,8 @@
 ### Software Architecture Project
 
-## Group:NAV_02
+## Group:NAV_04
 
-## Student(s): Nagalakunta Sumanth
+## Student(s): Nagalakunta Sumanth(5065491), Alluri Sai krishna rama chander raju(5060551), Julio Sebastian Sullca Trillo(5129500),Paraman Hanish Muthurathinam(5060913)
 
 ## Tutor(s): Fulvio Mastrogiovanni , mohamad Alameh, Alessandro Carfi, Simone Macciò
 
